@@ -2,6 +2,14 @@
 
 ## Phase One: Add a Microfinance Toolbar to Twitter, and use it to get everyday Americans Jobs, and help them raise money for projects.
 
+## Phase Two: Start to Open Source Twitter.
+
+Let people set up their own local node.The public and programmers will go nuts. Imagine the reaction on hacker news. 
+
+Keep an advertising navbar or footer, that links back to your own ad feed API. Then you can still profit.
+
+*
+
 More later, if GLP dialogue continues. 
 
 ## Inflatable Tents. Viable for the homeless in temperate climates?
