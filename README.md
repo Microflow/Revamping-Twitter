@@ -4,6 +4,10 @@
 
 More later, if GLP dialogue continues. 
 
+## Inflatable Tents. Viable for the homeless in temperate climates?
+
+https://www.youtube.com/results?search_query=inflatable+tent
+
 ## First GLP thread. Hope it doesn't get wiped. 
 
 Start by using Twitter to feed the homeless, get everyday American's jobs, and help them raise money for their dreams.
